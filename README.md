@@ -8,4 +8,4 @@ Implemented purely in Swift 2 and all UI elements were set up programmingly
 
 ###Demo GIF:
 
-<img src="https://github.com/hkalexling/AWButton/blob/master/AWButton.gif" width="350">
+![](https://github.com/hkalexling/AWButton/blob/master/AWButton.gif)
